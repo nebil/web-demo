@@ -1,0 +1,22 @@
+body {
+  margin: 0 auto;
+  padding: 4em 1em;
+  max-width: 50em;
+
+  color: #567C88;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  line-height: 1.5;
+}
+
+h1, h2, strong {
+  color: #333;
+}
+
+h2 {
+  margin-top: 1em;
+  padding-top: 1em;
+}
+
+a {
+  color: #E81F5F;
+}
